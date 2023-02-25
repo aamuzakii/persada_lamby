@@ -5,7 +5,7 @@ gem "rails"
 
 gem "importmap-rails"
 gem "lamby"
-gem "mysql2", "~> 0.5"
+# gem "mysql2", "~> 0.5"
 gem "sprockets-rails"
 gem "stimulus-rails"
 gem "turbo-rails"
